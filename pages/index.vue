@@ -70,12 +70,30 @@
       </div>
 
       <div class="quick-facts">
-        <!-- TODO add those -->
+        <h2>Quick Facts</h2>
+        <ul class="quick-facts__list">
+          <li>Public alpha is coming early 2020</li>
+          <li>Coming for PC, Mac & Linux</li>
+          <li>Might be ported to Android, iOS and Switch</li>
+          <li>Is a singleplayer spinoff from Coregrounds</li>
+          <li>
+            Developed by solo dev
+            <a href="https://twitter.com/ehmprah">ehmprah</a>
+          </li>
+        </ul>
       </div>
 
       <div class="screenshots">
-        <!-- TODO add screenshots -->
+        <h2>Screenshots</h2>
+        <div class="screenshots__container">
+          <Screenshot url="/img/screenshot_low_core.png" />
+          <Screenshot url="/img/screenshot_rewards.png" />
+          <Screenshot url="/img/screenshot_reward_detail.png" />
+          <Screenshot url="/img/screenshot_tower_detail.png" />
+        </div>
       </div>
+
+      <!-- TODO add newsletter subscription -->
 
       <div class="footer">
         <a href="/imprint">Imprint</a>
@@ -86,12 +104,12 @@
 
 <script>
 import Follow from '~/components/Follow.vue';
-
-// Add screenshot component
+import Screenshot from '~/components/Screenshot.vue';
 
 export default {
   components: {
-    Follow
+    Follow,
+    Screenshot
   },
   head() {
     return {
@@ -125,6 +143,14 @@ export default {
   &__description {
     text-align: left;
     margin: 1em 0;
+  }
+}
+
+.screenshots {
+  max-width: 960px;
+  margin: 2em 0;
+  &__container {
+    display: flex;
   }
 }
 
