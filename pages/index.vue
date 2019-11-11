@@ -60,27 +60,14 @@
 
       <div class="about">
         <div class="about__description">
-          Core Defense is a tower defense game with permadeath and roguelike
-          progression. You have to defeat 50 increasingly difficult waves
-          without losing your core. After each wave you get rewards like new
-          towers, upgrades, abilities and core modules.
-          <!-- that last sentence is weird -->
+          A tower defense game with permadeath and roguelike elements. Defeat 50
+          waves without losing your core. Choose a reward after each wave like
+          towers, upgrades, abilities and core modules. They have different
+          rarities and are rolled at random for endless replayability – because
+          beating this game will be hard!
         </div>
         <Follow />
-      </div>
-
-      <div class="quick-facts">
-        <h2>Quick Facts</h2>
-        <ul class="quick-facts__list">
-          <li>Public alpha is coming early 2020</li>
-          <li>Coming for PC, Mac & Linux</li>
-          <li>Might be ported to Android, iOS and Switch</li>
-          <li>Is a singleplayer spinoff from Coregrounds</li>
-          <li>
-            Developed by solo dev
-            <a href="https://twitter.com/ehmprah">ehmprah</a>
-          </li>
-        </ul>
+        <!-- TODO add steam / itch links -->
       </div>
 
       <div class="screenshots">
@@ -93,7 +80,38 @@
         </div>
       </div>
 
-      <!-- TODO add newsletter subscription -->
+      <div class="section">
+        <h2>Quick Facts</h2>
+        <ul class="list">
+          <li>Public alpha is coming early 2020</li>
+          <li>Coming for PC, Mac & Linux</li>
+          <li>
+            Developed by solo dev
+            <a href="https://twitter.com/ehmprah">ehmprah</a>
+          </li>
+          <li>
+            Singleplayer spinoff from
+            <a href="https://frgmnts.blog/f/how-not-to-make-a-game.html"
+              >Coregrounds</a
+            >
+          </li>
+        </ul>
+      </div>
+
+      <div class="section">
+        <h2>Follow</h2>
+        <Follow />
+      </div>
+
+      <div class="newsletter">
+        <h2>Newsletter</h2>
+        <Subscription />
+        <div class="newsletter__info">
+          Your email address is only used to send you updates about games by
+          ehmprah.<br />Unsubscribe anytime using the link included in every
+          email.
+        </div>
+      </div>
 
       <div class="footer">
         <a href="/imprint">Imprint</a>
@@ -105,11 +123,13 @@
 <script>
 import Follow from '~/components/Follow.vue';
 import Screenshot from '~/components/Screenshot.vue';
+import Subscription from '~/components/Subscription.vue';
 
 export default {
   components: {
     Follow,
-    Screenshot
+    Screenshot,
+    Subscription
   },
   head() {
     return {
@@ -138,7 +158,7 @@ export default {
 .about {
   width: 80vw;
   max-width: 480px;
-  margin: 0 auto 3em auto;
+  margin: 0 auto 80px auto;
 
   &__description {
     text-align: left;
@@ -148,9 +168,22 @@ export default {
 
 .screenshots {
   max-width: 960px;
-  margin: 2em 0;
+  margin: 80px auto;
   &__container {
     display: flex;
+  }
+}
+
+.section {
+  max-width: 400px;
+  margin: 80px auto;
+}
+
+.newsletter {
+  margin: 80px auto;
+  &__info {
+    font-size: 0.8em;
+    color: #aaa;
   }
 }
 

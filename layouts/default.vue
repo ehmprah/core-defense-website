@@ -4,7 +4,7 @@
   </div>
 </template>
 
-<style>
+<style lang="scss">
 html,
 body,
 p,
@@ -125,6 +125,19 @@ a:hover {
 
 p {
   margin-bottom: 1em;
+}
+
+h2 {
+  font-size: 1.5em;
+  text-transform: uppercase;
+  margin-bottom: 1em;
+  color: #26a7ce;
+}
+
+ul.list {
+  padding-left: 1.5em;
+  list-style-type: circle;
+  text-align: left;
 }
 
 .container {
