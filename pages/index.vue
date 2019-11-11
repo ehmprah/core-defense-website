@@ -103,14 +103,9 @@
         <Follow />
       </div>
 
-      <div class="newsletter">
+      <div class="section">
         <h2>Newsletter</h2>
         <Subscription />
-        <div class="newsletter__info">
-          Your email address is only used to send you updates about games by
-          ehmprah.<br />Unsubscribe anytime using the link included in every
-          email.
-        </div>
       </div>
 
       <div class="footer">

@@ -42,12 +42,13 @@
 </template>
 
 <style lang="scss">
-@import url(//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css);
-
 #mc_embed_signup input.email,
 #mc_embed_signup .button {
   font-family: 'Chakra Petch', sans-serif;
   font-size: 14px;
+  height: 40px;
+  padding: 0 1em;
+  margin: 0 0.25em;
 }
 
 #mc_embed_signup input.email {
@@ -59,7 +60,15 @@
 #mc_embed_signup .button {
   border-radius: 2px;
   background: #26a7ce;
+  border: none;
 }
+
+#mc_embed_signup_scroll {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 0.5em;
+}
+
 #mc-embedded-subscribe-form input[type='checkbox'] {
   display: inline;
   width: auto;
