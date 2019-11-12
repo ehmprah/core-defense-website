@@ -88,8 +88,6 @@ th {
   text-align: left;
 }
 
-@import url('https://fonts.googleapis.com/css?family=Chakra+Petch:500,600&display=swap');
-
 html {
   font-family: 'Chakra Petch', sans-serif;
   font-size: 18px;
