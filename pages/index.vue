@@ -59,13 +59,18 @@
       </div>
 
       <div class="about">
+        <div class="about__short">A roguelike tower defense game.</div>
         <div class="about__description">
-          A tower defense game with permadeath and roguelike elements. Defeat 50
-          waves without losing your core. Choose a reward after each wave like
-          towers, upgrades, abilities and core modules. They have different
-          rarities and are rolled at random for endless replayability – because
-          beating this game will be hard!
+          Defeat fifty waves without losing your core. Choose a reward after
+          each wave and build your arsenal with towers, abilities, upgrades and
+          core modules.
         </div>
+        <ul class="list">
+          <li>easy to learn, hard to master</li>
+          <li>endlessly replayable with random waves and rewards</li>
+          <li>one run takes about an hour</li>
+          <li>multiple difficulty levels</li>
+        </ul>
         <Follow />
         <!-- TODO add steam / itch links -->
       </div>
@@ -77,6 +82,10 @@
           <Screenshot url="/img/screenshot_rewards.png" />
           <Screenshot url="/img/screenshot_reward_detail.png" />
           <Screenshot url="/img/screenshot_tower_detail.png" />
+          <Screenshot url="/img/screenshot_aoe.png" />
+          <Screenshot url="/img/screenshot_final_wave.png" />
+          <Screenshot url="/img/screenshot_flawless_bonus.png" />
+          <Screenshot url="/img/screenshot_sawblades.png" />
         </div>
       </div>
 
@@ -84,7 +93,7 @@
         <h2>Quick Facts</h2>
         <ul class="list">
           <li>Public alpha is coming early 2020</li>
-          <li>Coming for PC, Mac & Linux</li>
+          <li>Coming for PC, Mac, Linux</li>
           <li>
             Developed by solo dev
             <a href="https://twitter.com/ehmprah">ehmprah</a>
@@ -155,6 +164,10 @@ export default {
   max-width: 480px;
   margin: 0 auto 80px auto;
 
+  &__short {
+    font-size: 1.25em;
+  }
+
   &__description {
     text-align: left;
     margin: 1em 0;
@@ -166,6 +179,10 @@ export default {
   margin: 80px auto;
   &__container {
     display: flex;
+    flex-wrap: wrap;
+    .screenshot {
+      flex: 1 0 200px;
+    }
   }
 }
 
