@@ -28,14 +28,18 @@
       <div class="screenshots">
         <h2>Screenshots</h2>
         <div class="screenshots__container">
-          <Screenshot url="/img/screenshot_low_core.png" />
-          <Screenshot url="/img/screenshot_rewards.png" />
-          <Screenshot url="/img/screenshot_reward_detail.png" />
-          <Screenshot url="/img/screenshot_tower_detail.png" />
-          <Screenshot url="/img/screenshot_aoe.png" />
+          <Screenshot url="/img/late_game.png" />
+          <Screenshot url="/img/rewards.png" />
+          <Screenshot url="/img/lightning.png" />
           <Screenshot url="/img/screenshot_final_wave.png" />
           <Screenshot url="/img/screenshot_flawless_bonus.png" />
+          <Screenshot url="/img/screenshot_low_core.png" />
+          <Screenshot url="/img/unlocks.png" />
+          <Screenshot url="/img/screenshot_aoe.png" />
+          <Screenshot url="/img/status_effects.png" />
+          <Screenshot url="/img/reward_detail.png" />
           <Screenshot url="/img/screenshot_sawblades.png" />
+          <Screenshot url="/img/highscore_card.png" />
         </div>
       </div>
 
@@ -43,6 +47,7 @@
         <h2>Quick Facts</h2>
         <ul class="list">
           <li>Public alpha is coming early 2020</li>
+          <li>First Access on itch.io after alpha</li>
           <li>Coming for PC, Mac, Linux</li>
           <li>
             Developed by solo dev
