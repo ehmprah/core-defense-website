@@ -73,7 +73,7 @@
 
       <div class="logos">
         <h2>Logos</h2>
-        <p><a href="/gifs/Core-Defense-GIFs.zip">Download as .zip</a></p>
+        <p><a href="/logo/Core-Defense-Logos.zip">Download as .zip</a></p>
         <div class="logos__container">
           <img class="logo" src="/logo/core.svg" />
           <img class="logo" src="/logo/core_defense_logo_final.svg" />
