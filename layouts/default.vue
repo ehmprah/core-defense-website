@@ -125,6 +125,7 @@ p {
   margin-bottom: 1em;
 }
 
+h1,
 h2 {
   font-size: 1.5em;
   text-transform: uppercase;
@@ -136,6 +137,13 @@ ul.list {
   padding-left: 1.5em;
   list-style-type: circle;
   text-align: left;
+}
+
+ul.list-inline {
+  li {
+    display: inline;
+    margin: 0.5em;
+  }
 }
 
 .container {

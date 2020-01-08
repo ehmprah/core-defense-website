@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866668"
+   version="1.1"
+   id="svg1334"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="core_only_animated.svg">
+  <defs
+     id="defs1328" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="167.71936"
+     inkscape:cy="79.633679"
+     inkscape:document-units="mm"
+     inkscape:current-layer="svg1334"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="2560"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1331">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="core-shadow">
+    <path
+       d="m 17.441197,10.847638 a 6.7705066,6.7705066 0 1 0 0,13.541013 6.7705068,6.7705068 0 0 0 0,-13.541013 z m 0,2.542215 a 4.2326582,4.2326582 0 1 1 0,8.465315 4.2326582,4.2326582 0 0 1 0,-8.465315 z"
+       id="core-shadow-base"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.21840343;stroke-miterlimit:4;stroke-dasharray:none" />
+    <g
+       id="core-shadow-layers">
+      <path
+         id="core-shadow-layer-1"
+         d="M 9.830171,4.4178429 A 15.235822,15.235822 0 0 0 6.6676941,6.8464887 L 10.856668,11.035466 A 9.3258259,9.3258259 0 0 1 16.631256,8.3403683 L 16.111453,2.4434757 A 15.235822,15.235822 0 0 0 9.830171,4.4222111 Z M 2.4350331,14.979832 c -0.6202639,3.525029 0.017348,7.163632 1.8083798,10.264962 L 9.3758986,22.278877 A 9.2734089,9.2734089 0 0 1 8.2707785,16.00633 Z M 25.061626,4.4309469 22.095709,9.5590594 a 9.2646731,9.2646731 0 0 1 4.097249,4.8791326 l 5.564919,-2.026784 A 15.235822,15.235822 0 0 0 25.057259,4.4309469 Z m -9.238464,22.3645091 -1.026497,5.83574 a 15.227086,15.227086 0 0 0 10.264961,-1.808379 l -2.965917,-5.132481 c -1.974366,1.135699 -4.193341,1.472039 -6.272547,1.10512 z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:0.62745098;stroke:#000000;stroke-width:0.21840343;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.62745098">
+        <animateTransform
+           repeatCount="indefinite"
+           dur="16s"
+           from="0 17.4412624835968 17.62294840812683" 
+           to="360 17.4412624835968 17.62294840812683"
+           type="rotate"
+           attributeName="transform" />
+      </path>
+      <path
+         id="core-shadow-layer-2"
+         d="M 4.9597756,8.8820087 A 15.235822,15.235822 0 0 0 6.6633264,28.394173 L 10.856673,24.200826 A 9.2821452,9.2821452 0 0 1 9.8127004,12.275998 Z M 26.756437,17.618144 c 0,4.595213 -3.328469,8.408532 -7.696537,9.172944 l 1.026497,5.835741 A 15.235822,15.235822 0 0 0 32.67954,17.622512 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:0.62745098;stroke:#000000;stroke-width:0.21840343;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.62745098">
+        <animateTransform
+           repeatCount="indefinite"
+           dur="12s"
+           from="0 17.4412624835968 17.62294840812683" 
+           to="360 17.4412624835968 17.62294840812683"
+           type="rotate"
+           attributeName="transform" />
+      </path>
+      <path
+         id="core-shadow-layer-3"
+         d="m 17.43935,2.3823229 c -1.327897,0 -2.655788,0.1747217 -3.939997,0.5198 l 1.528824,5.7221699 A 9.3345617,9.3345617 0 0 1 18.251811,8.344737 L 18.767246,2.4391091 A 15.026155,15.026155 0 0 0 17.43935,2.3823229 Z m 3.944364,0.5198 -1.528818,5.7221699 c 1.061433,0.2839234 2.048616,0.7513075 2.926597,1.3672052 l 3.398362,-4.8485561 a 15.244558,15.244558 0 0 0 -4.796141,-2.240819 z m 5.372728,14.7203891 c 0,1.118228 -0.200933,2.188402 -0.567852,3.184325 l 5.569287,2.026784 c 0.611529,-1.672972 0.917291,-3.43767 0.917291,-5.211109 z m -14.654873,7.626649 -3.3983564,4.848558 c 1.4545634,1.022129 3.0794864,1.782168 4.7961404,2.240819 l 1.528824,-5.722171 a 9.2603049,9.2603049 0 0 1 -2.926608,-1.367206 z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:0.62745098;stroke:#000000;stroke-width:0.21840343;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.62745098">
+        <animateTransform
+           repeatCount="indefinite"
+           dur="8s"
+           from="0 17.4412624835968 17.62294840812683" 
+           to="-360 17.4412624835968 17.62294840812683"
+           type="rotate"
+           attributeName="transform" />
+      </path>
+    </g>
+  </g>
+  <g
+     id="core"
+     transform="translate(0,-263.13332)">
+    <path
+       d="m 16.4252,272.60171 a 6.7705058,6.7705058 0 1 0 0,13.54101 6.7705058,6.7705058 0 0 0 0,-13.54101 z m 0,2.54221 a 4.23266,4.23266 0 1 1 0,8.46532 4.23266,4.23266 0 0 1 0,-8.46532 z"
+       id="core-base"
+       inkscape:connector-curvature="0"
+       style="fill:#26a7ce;stroke:#000000;stroke-width:0.21840343;stroke-miterlimit:4;stroke-dasharray:none" />
+    <g
+       id="core-layers">
+      <path
+         id="core-layer-1"
+         d="m 8.8141848,266.17191 a 15.235822,15.235822 0 0 0 -3.162482,2.42865 l 4.1889792,4.18898 a 9.3258259,9.3258259 0 0 1 5.774583,-2.6951 l -0.519798,-5.89689 a 15.235822,15.235822 0 0 0 -6.2812822,1.97873 z M 1.4190419,276.7339 c -0.62026394,3.52503 0.017348,7.16363 1.8083848,10.26496 l 5.1324806,-2.96592 A 9.2734089,9.2734089 0 0 1 7.2547821,277.7604 Z m 22.6265981,-10.54888 -2.965922,5.12811 a 9.2646731,9.2646731 0 0 1 4.097248,4.87913 l 5.56492,-2.02678 a 15.235822,15.235822 0 0 0 -6.700613,-7.98046 z m -9.238464,22.3645 -1.026497,5.83574 a 15.227086,15.227086 0 0 0 10.264961,-1.80838 l -2.965922,-5.13248 c -1.974366,1.1357 -4.193342,1.47204 -6.272542,1.10512 z"
+         inkscape:connector-curvature="0"
+         style="fill:#26a7ce;fill-opacity:0.62699998;stroke:#000000;stroke-width:0.21840343;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.62745098">
+        <animateTransform
+           repeatCount="indefinite"
+           dur="16s"
+           from="0 16.42527985572815 279.37701416015625" 
+           to="360 16.42527985572815 279.37701416015625"
+           type="rotate"
+           attributeName="transform" />
+      </path>
+      <path
+         id="core-layer-2"
+         d="m 3.9437894,270.63608 a 15.235822,15.235822 0 0 0 1.7035457,19.51216 L 9.840682,285.95489 A 9.2821452,9.2821452 0 0 1 8.7967142,274.03007 Z m 21.7966616,8.73613 c 0,4.59521 -3.328469,8.40853 -7.696537,9.17295 l 1.026497,5.83574 a 15.235822,15.235822 0 0 0 12.593138,-15.00432 z"
+         inkscape:connector-curvature="0"
+         style="fill:#26a7ce;fill-opacity:0.62699998;stroke:#000000;stroke-width:0.21840343;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.62745098">
+        <animateTransform
+           repeatCount="indefinite"
+           dur="12s"
+           from="0 16.42527985572815 279.37701416015625" 
+           to="360 16.42527985572815 279.37701416015625"
+           type="rotate"
+           attributeName="transform" />
+      </path>
+      <path
+         id="core-layer-3"
+         d="m 16.423358,264.13639 c -1.327891,0 -2.655782,0.17472 -3.939997,0.5198 l 1.528824,5.72217 a 9.3345617,9.3345617 0 0 1 3.223635,-0.27955 l 0.51543,-5.90563 a 15.026155,15.026155 0 0 0 -1.327892,-0.0568 z m 3.944365,0.5198 -1.528824,5.72217 c 1.061444,0.28393 2.048627,0.75131 2.926608,1.36721 l 3.398356,-4.84856 a 15.244558,15.244558 0 0 0 -4.79614,-2.24082 z m 5.372728,14.72039 c 0,1.11823 -0.200933,2.1884 -0.567852,3.18433 l 5.569287,2.02678 c 0.611529,-1.67297 0.917295,-3.43767 0.917295,-5.21111 z m -14.654874,7.62665 -3.3983557,4.84856 c 1.4545687,1.02212 3.0794917,1.78217 4.7961397,2.24082 l 1.528824,-5.72218 a 9.2603049,9.2603049 0 0 1 -2.926608,-1.3672 z"
+         inkscape:connector-curvature="0"
+         style="fill:#26a7ce;fill-opacity:0.62699998;stroke:#000000;stroke-width:0.21840343;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.62745098">
+        <animateTransform
+           repeatCount="indefinite"
+           dur="8s"
+           from="0 16.42527985572815 279.37701416015625" 
+           to="-360 16.42527985572815 279.37701416015625"
+           type="rotate"
+           attributeName="transform" />
+      </path>
+    </g>
+  </g>
+</svg>

@@ -28,27 +28,27 @@
       <div class="screenshots">
         <h2>Screenshots</h2>
         <div class="screenshots__container">
-          <Screenshot url="/img/late_game.png" />
-          <Screenshot url="/img/rewards.png" />
-          <Screenshot url="/img/lightning.png" />
-          <Screenshot url="/img/screenshot_final_wave.png" />
-          <Screenshot url="/img/screenshot_flawless_bonus.png" />
-          <Screenshot url="/img/screenshot_low_core.png" />
-          <Screenshot url="/img/unlocks.png" />
-          <Screenshot url="/img/screenshot_aoe.png" />
-          <Screenshot url="/img/status_effects.png" />
-          <Screenshot url="/img/reward_detail.png" />
-          <Screenshot url="/img/screenshot_sawblades.png" />
-          <Screenshot url="/img/highscore_card.png" />
+          <Screenshot url="/img/Core-Defense-Screenshot-1.png" />
+          <Screenshot url="/img/Core-Defense-Screenshot-2.png" />
+          <Screenshot url="/img/Core-Defense-Screenshot-3.png" />
+          <Screenshot url="/img/Core-Defense-Screenshot-4.png" />
+          <Screenshot url="/img/Core-Defense-Screenshot-5.png" />
+          <Screenshot url="/img/Core-Defense-Screenshot-6.png" />
+          <Screenshot url="/img/Core-Defense-Screenshot-7.png" />
+          <Screenshot url="/img/Core-Defense-Screenshot-8.png" />
+          <Screenshot url="/img/Core-Defense-Screenshot-9.png" />
+          <Screenshot url="/img/Core-Defense-Screenshot-10.png" />
+          <Screenshot url="/img/Core-Defense-Screenshot-11.png" />
+          <Screenshot url="/img/Core-Defense-Screenshot-12.png" />
         </div>
       </div>
 
       <div class="section">
         <h2>Quick Facts</h2>
         <ul class="list">
-          <li>Public alpha is coming early 2020</li>
-          <li>First Access on itch.io after alpha</li>
-          <li>Coming for PC, Mac, Linux</li>
+          <li>Platforms: Windows, Mac, Linux, Android, iOS</li>
+          <li>Release: January 16, 2020 (First Access on Itch.io)</li>
+          <li>Release on Steam, Play Store, App Store later in 2020</li>
           <li>
             Developed by solo dev
             <a href="https://twitter.com/ehmprah">ehmprah</a>
@@ -73,7 +73,7 @@
       </div>
 
       <div class="footer">
-        <a href="/imprint">Imprint</a>
+        <Navigation />
       </div>
     </div>
   </div>
@@ -83,12 +83,14 @@
 import Follow from '~/components/Follow.vue';
 import Screenshot from '~/components/Screenshot.vue';
 import Subscription from '~/components/Subscription.vue';
+import Navigation from '~/components/Navigation.vue';
 
 export default {
   components: {
     Follow,
     Screenshot,
-    Subscription
+    Subscription,
+    Navigation
   },
   head() {
     return {
@@ -132,7 +134,7 @@ export default {
 }
 
 .section {
-  max-width: 400px;
+  max-width: 600px;
   margin: 80px auto;
 }
 
