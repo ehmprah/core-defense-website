@@ -25,6 +25,27 @@
         ></iframe>
       </div>
 
+      <div class="section">
+        <iframe
+          frameborder="0"
+          src="https://itch.io/embed/515268?linkback=true&amp;bg_color=111&amp;fg_color=dbdbdb&amp;link_color=26a7ce&amp;border_color=333"
+          width="552"
+          height="167"
+          ><a href="https://ehmprah.itch.io/core-defense"
+            >Core Defense by ehmprah</a
+          ></iframe
+        >
+      </div>
+
+      <div class="section">
+        <iframe
+          src="https://store.steampowered.com/widget/1203360/?t=A%20roguelike%20tower%20defense"
+          frameborder="0"
+          width="646"
+          height="190"
+        ></iframe>
+      </div>
+
       <div class="screenshots">
         <h2>Screenshots</h2>
         <div class="screenshots__container">
@@ -134,7 +155,7 @@ export default {
 }
 
 .section {
-  max-width: 600px;
+  max-width: 640px;
   margin: 80px auto;
 }
 

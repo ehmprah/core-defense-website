@@ -114,10 +114,18 @@
       <div class="section">
         <h2>Mentions</h2>
         <p>
-          "Addictive Tower Defense" – Calum Fraser,
+          "Addictive Tower Defense"<br />– Calum Fraser,
           <a
             href="https://twitter.com/gameralphabeta/status/1208815708169224192"
             >AlphaBetaGamer</a
+          >
+        </p>
+        <p>
+          "A Tower Defense game that's trying to be a little different"<br />–
+          Liam Dawe,
+          <a
+            href="https://www.gamingonlinux.com/articles/core-defense-aims-to-mix-up-the-tower-defense-genre-with-deck-building-and-randomness-out-now.15786/"
+            >GamingOnLinux</a
           >
         </p>
       </div>
