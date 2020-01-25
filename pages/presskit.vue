@@ -6,11 +6,11 @@
       <div class="text">
         <h2>Description</h2>
         <div class="text__description">
-          Core Defense is a roguelike tower defense game with a dash of
-          deckbuilding. Survive fifty waves without losing your core. Choose a
-          reward, update your build, survive the next wave, repeat. Highly
-          replayable through permadeath, randomization and many challenging
-          difficulty levels.
+          A roguelike tower defense game with a dash of deckbuilding. Survive
+          fifty waves without losing your core. Choose a reward, update your
+          build, survive the next wave, repeat. Highly replayable through
+          permadeath, randomization and challenging difficulty levels. Just one
+          more wave, just one more run!
         </div>
       </div>
 

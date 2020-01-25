@@ -6,10 +6,10 @@
       <div class="about">
         <div class="about__short">A roguelike tower defense game.</div>
         <div class="about__description">
-          Defeat fifty waves without losing your core. Choose a reward after
-          each wave and build a winning combination of walls, towers, abilities,
-          upgrades and modules. Highly replayable through permadeath, randomized
-          waves and rewards and a high difficulty.
+          Survive fifty waves without losing your core. Choose a reward, update
+          your build, survive the next wave, repeat. Highly replayable through
+          permadeath, randomization and challenging difficulty levels. Just one
+          more wave, just one more run!
         </div>
         <Follow />
       </div>
