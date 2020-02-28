@@ -118,6 +118,14 @@
       <div class="section">
         <h2>Mentions</h2>
         <p>
+          "Good bread doesn't need butter ... Core Defense has always left me
+          with that 'just one more wave' thirst."<br />– Óscar Morgado,
+          <a
+            href="https://rubberchickengames.com/2020/02/10/core-defense-um-bom-pao-nao-precisa-de-manteiga/"
+            >Rubber Chicken</a
+          >
+        </p>
+        <p>
           "Addictive Tower Defense"<br />– Calum Fraser,
           <a
             href="https://twitter.com/gameralphabeta/status/1208815708169224192"
