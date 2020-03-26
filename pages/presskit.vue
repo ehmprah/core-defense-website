@@ -126,6 +126,14 @@
           >
         </p>
         <p>
+          "Core Defense will not leave you hungry, proving to be effective and
+          well designed."<br />– Charlotte Benoit,
+          <a
+            href="https://game-guide.fr/272504-core-defense-efficacite-et-simplicite/"
+            >Game Guide</a
+          >
+        </p>
+        <p>
           "Addictive Tower Defense"<br />– Calum Fraser,
           <a
             href="https://twitter.com/gameralphabeta/status/1208815708169224192"
