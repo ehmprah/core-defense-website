@@ -141,10 +141,10 @@
           >
         </p>
         <p>
-          "A Tower Defense game that's trying to be a little different"<br />–
-          Liam Dawe,
+          "Pretty good and it really started scratching the itch as I got
+          further into it"<br />– Liam Dawe,
           <a
-            href="https://www.gamingonlinux.com/articles/core-defense-aims-to-mix-up-the-tower-defense-genre-with-deck-building-and-randomness-out-now.15786/"
+            href="https://www.gamingonlinux.com/articles/core-defense-prelude-is-out-giving-you-a-taste-of-tower-defense-mixed-with-a-little-deck-building.16276"
             >GamingOnLinux</a
           >
         </p>
