@@ -6,10 +6,10 @@
       <div class="about">
         <div class="about__short">A roguelike tower defense game.</div>
         <div class="about__description">
-          Survive fifty waves without losing your core. Choose a reward, update
-          your build, survive the next wave, repeat. Highly replayable through
-          permadeath, randomization and challenging difficulty levels. Just one
-          more wave, just one more run!
+          Survive for 50 waves without losing your core. Choose a reward,
+          improve your build, survive the next wave, repeat. Highly replayable,
+          difficult, and addictive. You'll want just one more wave, just one
+          more run!
         </div>
         <Follow />
       </div>
@@ -66,21 +66,7 @@
 
       <div class="section">
         <h2>Quick Facts</h2>
-        <ul class="list">
-          <li>Platforms: Windows, Mac, Linux, Android, iOS</li>
-          <li>Release: January 16, 2020 (First Access on Itch.io)</li>
-          <li>Release on Steam, Play Store, App Store later in 2020</li>
-          <li>
-            Developed by solo dev
-            <a href="https://twitter.com/ehmprah">ehmprah</a>
-          </li>
-          <li>
-            Singleplayer spinoff from
-            <a href="https://frgmnts.blog/f/how-not-to-make-a-game.html"
-              >Coregrounds</a
-            >
-          </li>
-        </ul>
+        <QuickFacts />
       </div>
 
       <div class="section">
@@ -102,16 +88,18 @@
 
 <script>
 import Follow from '~/components/Follow.vue';
+import Navigation from '~/components/Navigation.vue';
+import QuickFacts from '~/components/QuickFacts.vue';
 import Screenshot from '~/components/Screenshot.vue';
 import Subscription from '~/components/Subscription.vue';
-import Navigation from '~/components/Navigation.vue';
 
 export default {
   components: {
     Follow,
+    Navigation,
+    QuickFacts,
     Screenshot,
-    Subscription,
-    Navigation
+    Subscription
   },
   head() {
     return {

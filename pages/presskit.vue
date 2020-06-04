@@ -6,11 +6,10 @@
       <div class="text">
         <h2>Description</h2>
         <div class="text__description">
-          A roguelike tower defense game with a dash of deckbuilding. Survive
-          fifty waves without losing your core. Choose a reward, update your
-          build, survive the next wave, repeat. Highly replayable through
-          permadeath, randomization and challenging difficulty levels. Just one
-          more wave, just one more run!
+          A roguelike tower defense game with a dash of deckbuilding. Choose a
+          reward, improve your build, survive the next wave, repeat. Highly
+          replayable, difficult, and addictive. You'll want just one more wave,
+          just one more run!
         </div>
       </div>
 
@@ -34,7 +33,7 @@
         <iframe
           width="560"
           height="315"
-          src="https://www.youtube-nocookie.com/embed/jB7aXX57a7I"
+          src="https://www.youtube-nocookie.com/embed/47SFM1lvpq4"
           frameborder="0"
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen
@@ -72,6 +71,10 @@
           <Screenshot url="/gifs/Core-Defense-6.gif" />
           <Screenshot url="/gifs/Core-Defense-7.gif" />
           <Screenshot url="/gifs/Core-Defense-8.gif" />
+          <Screenshot url="/gifs/Core-Defense-9.gif" />
+          <Screenshot url="/gifs/Core-Defense-10.gif" />
+          <Screenshot url="/gifs/Core-Defense-11.gif" />
+          <Screenshot url="/gifs/Core-Defense-12.gif" />
         </div>
       </div>
 
@@ -87,12 +90,7 @@
 
       <div class="section">
         <h2>Quick Facts</h2>
-        <ul class="list">
-          <li>Developer: solo dev ehmprah, based in Berlin</li>
-          <li>Platforms: Windows, Mac, Linux, Android, iOS</li>
-          <li>Release: January 16, 2020 (First Access on Itch.io)</li>
-          <li>Release on Steam, Play Store, App Store later in 2020</li>
-        </ul>
+        <QuickFacts />
       </div>
 
       <div class="section">
@@ -168,14 +166,16 @@
 </template>
 
 <script>
+import Navigation from '~/components/Navigation.vue';
+import QuickFacts from '~/components/QuickFacts.vue';
 import Screenshot from '~/components/Screenshot.vue';
 import Subscription from '~/components/Subscription.vue';
-import Navigation from '~/components/Navigation.vue';
 
 export default {
   components: {
-    Screenshot,
     Navigation,
+    QuickFacts,
+    Screenshot,
     Subscription
   },
   head() {
