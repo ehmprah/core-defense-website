@@ -146,6 +146,13 @@
             >GamingOnLinux</a
           >
         </p>
+        <p>
+          "Recommended!"<br />– Thiago Correia,
+          <a
+            href="https://www.nerdmaldito.com/2020/06/core-defense-tower-defense-muito.html"
+            >Nerdmaldito</a
+          >
+        </p>
       </div>
 
       <div class="section">
