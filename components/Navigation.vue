@@ -3,6 +3,7 @@
     <ul class="navigation">
       <li><a href="/">Home</a></li>
       <li><a href="/presskit">Presskit</a></li>
+      <li><a href="/privacy-policy">Privacy Policy</a></li>
       <li><a href="/imprint">Imprint</a></li>
     </ul>
   </nav>
