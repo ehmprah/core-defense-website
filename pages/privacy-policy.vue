@@ -44,10 +44,18 @@
           </li>
           <li>
             <a
-              href="https://gameanalytics.com/privacy"
+              href="https://firebase.google.com/terms/analytics"
               target="_blank"
               rel="noopener noreferrer"
-              >GameAnalytics</a
+              >Firebase Analytics</a
+            >
+          </li>
+          <li>
+            <a
+              href="https://firebase.google.com/terms/crashlytics"
+              target="_blank"
+              rel="noopener noreferrer"
+              >Firebase Crashlytics</a
             >
           </li>
         </ul>
