@@ -6,13 +6,14 @@
       <div class="about">
         <div class="about__short">A roguelike tower defense game.</div>
         <div class="about__description">
-          Survive for 50 waves without losing your core. Choose a reward,
-          improve your build, survive the next wave, repeat. Highly replayable,
-          difficult, and addictive. You'll want just one more wave, just one
-          more run!
+          A roguelike tower defense game with a dash of deckbuilding. Choose a
+          reward, improve your build, survive the next wave, repeat. Highly
+          replayable, difficult, and addictive. You'll want just one more wave,
+          just one more run!
         </div>
-        <Follow />
       </div>
+
+      <Buy />
 
       <div class="trailer">
         <iframe
@@ -22,27 +23,6 @@
           frameborder="0"
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen
-        ></iframe>
-      </div>
-
-      <div class="section">
-        <iframe
-          frameborder="0"
-          src="https://itch.io/embed/515268?linkback=true&amp;bg_color=111&amp;fg_color=dbdbdb&amp;link_color=26a7ce&amp;border_color=333"
-          width="552"
-          height="167"
-          ><a href="https://ehmprah.itch.io/core-defense"
-            >Core Defense by ehmprah</a
-          ></iframe
-        >
-      </div>
-
-      <div class="section">
-        <iframe
-          src="https://store.steampowered.com/widget/1203360/?t=A%20roguelike%20tower%20defense"
-          frameborder="0"
-          width="646"
-          height="190"
         ></iframe>
       </div>
 
@@ -65,13 +45,13 @@
       </div>
 
       <div class="section">
-        <h2>Quick Facts</h2>
-        <QuickFacts />
+        <h2>Follow</h2>
+        <Follow />
       </div>
 
       <div class="section">
-        <h2>Follow</h2>
-        <Follow />
+        <h2>Quick Facts</h2>
+        <QuickFacts />
       </div>
 
       <div class="section">
@@ -87,6 +67,7 @@
 </template>
 
 <script>
+import Buy from '~/components/Buy.vue';
 import Follow from '~/components/Follow.vue';
 import Navigation from '~/components/Navigation.vue';
 import QuickFacts from '~/components/QuickFacts.vue';
@@ -95,6 +76,7 @@ import Subscription from '~/components/Subscription.vue';
 
 export default {
   components: {
+    Buy,
     Follow,
     Navigation,
     QuickFacts,
@@ -117,15 +99,15 @@ export default {
 
 .about {
   width: 80vw;
-  max-width: 480px;
-  margin: 0 auto 80px auto;
+  max-width: 520px;
+  margin: 0 auto 40px auto;
 
   &__short {
     font-size: 1.25em;
   }
 
   &__description {
-    text-align: left;
+    text-align: justify;
     margin: 1em 0;
   }
 }

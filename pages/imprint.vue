@@ -10,6 +10,11 @@
         </p>
         <p>Email: <a href="mailto:ehmprah@gmail.com">ehmprah@gmail.com</a></p>
       </div>
+      <p>Google Play and the Google Play logo are trademarks of Google LLC.</p>
+      <p>
+        The App Store and Apple Logo are trademarks of Apple Inc., registered in
+        the U.S. and other countries.
+      </p>
       <a href="/">Back</a>
     </div>
   </div>
