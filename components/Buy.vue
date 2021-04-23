@@ -11,7 +11,7 @@
       </a>
     </li>
     <li>
-      <a href="https://testflight.apple.com/join/DoIGCG5I">
+      <a href="https://apps.apple.com/us/app/core-defense/id1546364145">
         <img
           src="/badges/app-store.png"
           alt="Get Core Defense on the App Store"
