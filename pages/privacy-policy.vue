@@ -36,14 +36,6 @@
           </li>
           <li>
             <a
-              href="https://support.google.com/admob/answer/6128543?hl=en"
-              target="_blank"
-              rel="noopener noreferrer"
-              >AdMob</a
-            >
-          </li>
-          <li>
-            <a
               href="https://firebase.google.com/terms/analytics"
               target="_blank"
               rel="noopener noreferrer"
