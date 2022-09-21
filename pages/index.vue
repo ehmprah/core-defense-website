@@ -4,7 +4,6 @@
       <img class="logo" src="/logo.svg" alt="Core Defense Logo" />
 
       <div class="about">
-        <div class="about__short">A roguelike tower defense game.</div>
         <div class="about__description">
           A roguelike tower defense game with a dash of deckbuilding. Choose a
           reward, improve your build, survive the next wave, repeat. Highly
@@ -110,7 +109,7 @@ export default {
 
   &__description {
     text-align: justify;
-    margin: 1em 0;
+    margin: 1em 2em;
   }
 }
 

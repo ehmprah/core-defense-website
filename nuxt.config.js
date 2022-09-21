@@ -23,13 +23,6 @@ export default {
         name: 'description',
         content: process.env.npm_package_description || ''
       }
-    ],
-    link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      {
-        rel: 'stylesheet',
-        href: 'https://fonts.googleapis.com/css?family=Chakra+Petch:500,600'
-      }
     ]
     /* favicons */
     // TODO add them

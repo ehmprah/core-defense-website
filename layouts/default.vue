@@ -5,6 +5,24 @@
 </template>
 
 <style lang="scss">
+/* chakra-petch-600 - latin */
+@font-face {
+  font-family: 'Chakra Petch';
+  font-style: normal;
+  font-weight: 600;
+  src: url('/fonts/chakra-petch-v9-latin-600.eot'); /* IE9 Compat Modes */
+  src: local(''),
+    url('/fonts/chakra-petch-v9-latin-600.eot?#iefix')
+      format('embedded-opentype'),
+    /* IE6-IE8 */ url('/fonts/chakra-petch-v9-latin-600.woff2') format('woff2'),
+    /* Super Modern Browsers */ url('/fonts/chakra-petch-v9-latin-600.woff')
+      format('woff'),
+    /* Modern Browsers */ url('/fonts/chakra-petch-v9-latin-600.ttf')
+      format('truetype'),
+    /* Safari, Android, iOS */
+      url('/fonts/chakra-petch-v9-latin-600.svg#ChakraPetch') format('svg'); /* Legacy iOS */
+}
+
 html,
 body,
 p,
